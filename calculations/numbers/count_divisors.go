@@ -9,8 +9,15 @@ func CountDivisors(n int) int {
 	return n
 }
 // ist die Zahl eine Primzahl, so sind ihre Teiler 1 und sie selbst 
-func Prim(n int)int {
-	if n==n/n && n=n/1{
-		return n
+a[]={0}
+
+
+
+for i=0; i<n; i++{
+	if n%i==0{
+		return true
+		a=a+i
 	}
 }
+
+
